@@ -1,0 +1,2 @@
+# myzen
+my thinking logics
